@@ -42,11 +42,7 @@
 			"icon": "database",
 			"degree": 80
 		},
-		{
-			"id": 9,
-			"icon": "python",
-			"degree": 60
-		}
+	
 	],
 
 	"realisations": [{

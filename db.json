@@ -14,7 +14,7 @@
 		{
 			"id": 3,
 			"icon": "mdb",
-			"degree": 75
+			"degree": 90
 		},
 		{
 			"id": 4,
@@ -30,19 +30,23 @@
 		{
 			"id": 6,
 			"icon": "php",
-			"degree": 60
+			"degree": 75
 		},
 		{
 			"id": 7,
 			"icon": "wordpress",
-			"degree": 70
+			"degree": 80
 		},
 		{
 			"id": 8,
 			"icon": "database",
-			"degree": 70
+			"degree": 80
 		},
-	
+		{
+			"id": 9,
+			"icon": "python",
+			"degree": 60
+		}
 	],
 
 	"realisations": [{

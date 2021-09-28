@@ -4,7 +4,7 @@
 	"competences": [{
 			"id": 1,
 			"icon": "html5",
-			"degree": 90
+			"degree": 80
 		},
 		{
 			"id": 2,
@@ -14,7 +14,7 @@
 		{
 			"id": 3,
 			"icon": "mdb",
-			"degree": 90
+			"degree": 70
 		},
 		{
 			"id": 4,
@@ -30,22 +30,17 @@
 		{
 			"id": 6,
 			"icon": "php",
-			"degree": 75
+			"degree": 60
 		},
 		{
 			"id": 7,
 			"icon": "wordpress",
-			"degree": 80
+			"degree": 65
 		},
 		{
 			"id": 8,
 			"icon": "database",
-			"degree": 80
-		},
-		{
-			"id": 9,
-			"icon": "python",
-			"degree": 60
+			"degree": 70
 		}
 	],
 
